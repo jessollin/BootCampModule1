@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-* * by Jessica María Ollinger Gaytán* *
+ * by Jessica María Ollinger Gaytán
 
 ## Overview of Project
 
