@@ -19,7 +19,7 @@ By looking into our pivot and graph, it seems the best month to launch a theathe
 
 ![image_name](Theather_Outcomes_vs_Launch.png)
 
-![filename](JMOG Kickstarter challenge.xlsx)
+![filename](JMOG_Kickstarter_challenge.xlsx)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -38,6 +38,7 @@ The biggest challenge encountered was to create a new column to properly allocat
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 **1** May is the best month to launch theather campaigns in kickstarter, based on historical data from 2009 to 2017.
+
 **2** December is the worst month to launch theather campaigns in kickstarter, based on historical data from 2009 to 2017.
 
 ---
