@@ -22,7 +22,7 @@ By looking into our pivot and graph, it seems the best month to launch a theathe
 
 ### Analysis of Outcomes Based on Goals
 
-The percentage of success for subcategory Plays seems to be correlated to goal amounts less than $5,000 in the currency of the country, with a success rate at the 70s%. The majority of the projects for Plays have a goal of less than 15k, or aprox. 85% of the total population being studied. We could go even further into the analysis to review date from launch and date od deadline to review if the more time a kiskstarter is open affects outcomes as well as the goal amounts.
+The percentage of success for subcategory Plays seems to be correlated to goal amounts less than $5,000 in the currency of the country, with a success rate at the 70s%. The majority of the projects for Plays have a goal of less than 15k, or aprox. 85% of the total population being studied. We could go even further into the analysis to review date from launch and date of deadline to review if the more time a kiskstarter is open affects outcomes as well as the goal amounts.
 ![image_name](Outcomes_vs_Goals.png)
 
 
