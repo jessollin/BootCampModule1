@@ -37,28 +37,28 @@ The biggest challenge encountered was to create a new column to properly allocat
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-**1** May is the best month to launch theather campaigns in kickstarter, based on historical data from 2009 to 2017.
+    **1** May is the best month to launch theather campaigns in kickstarter, based on historical data from 2009 to 2017.
 
-**2** December is the worst month to launch theather campaigns in kickstarter, based on historical data from 2009 to 2017.
+    **2** December is the worst month to launch theather campaigns in kickstarter, based on historical data from 2009 to 2017.
 
 ---
 
 - What can you conclude about the Outcomes based on Goals?
 
-The percentage of success for the subcategory Plays seems to be correlated to goal amounts less than $5,000 in the currency of the country.
+    The percentage of success for the subcategory Plays seems to be correlated to goal amounts less than $5,000 in the currency of the country.
 
 ---
 
 - What are some limitations of this dataset?
 
-The goal and pledged amounts are in the currency of the pertaining country of the kickstarter. If we want to compare amounts, both goals and pledged, and also include analysis by countries, we would need to translate the currency into just one for analytics purposes, example USD.
+    The goal and pledged amounts are in the currency of the pertaining country of the kickstarter. If we want to compare amounts, both goals and pledged, and also include analysis by countries, we would need to translate the currency into just one for analytics purposes, example USD.
 
 ---
 
 - What are some other possible tables and/or graphs that we could create?
 
-* Outcomes based on the time allocated between launch and deadline dates. I may be that more months allows a successful outcome.
-* Statistical analysis of pledged amounts vs kickstarter goals pertaining to outcomes. A boxplot table could show us if there were pledges with very deep pocket bankrolling a project into a successful campaing, vs smaller pledge amounts.
-* Do analysis by country, for outcomes and amounts. Previous translation into a common currency, say USD.
+    * Outcomes based on the time allocated between launch and deadline dates. I may be that more months allows a successful outcome.
+    * Statistical analysis of pledged amounts vs kickstarter goals pertaining to outcomes. A boxplot table could show us if there were pledges with very deep pocket bankrolling a project into a successful campaing, vs smaller pledge amounts.
+    * Do analysis by country, for outcomes and amounts. Previous translation into a common currency, say USD.
 
 ---
