@@ -19,7 +19,7 @@ By looking into our pivot and graph, it seems the best month to launch a theathe
 
 ![image_name](Theather_Outcomes_vs_Launch.png)
 
-![filename](JMOG_Kickstarter_challenge.xlsx)
+![filename](https://github.com/jessollin/BootCampModule1/blob/484c8d6693091dde1385165cbbd4b906bca08ae0/JMOG_Kickstarter_challenge.xlsx)
 
 
 ### Analysis of Outcomes Based on Goals
