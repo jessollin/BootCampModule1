@@ -56,7 +56,7 @@ The biggest challenge encountered was to create a new column to properly allocat
 - What are some other possible tables and/or graphs that we could create?
 
     * Outcomes based on the time allocated between launch and deadline dates. It may be that more months allows a successful outcome.
-    * Statistical analysis of pledged amounts vs kickstarter goals pertaining to outcomes. A boxplot table could show us if there were pledges with very deep pocket bankrolling a project into a successful campaing, vs smaller pledge amounts.
+    * Statistical analysis of pledged amounts vs kickstarter goals pertaining to outcomes. A boxplot table could show us if there were pledges with very deep pockets bankrolling a project into a successful campaing, vs smaller pledge amounts.
     * Do analysis by country, for outcomes and amounts. Previous translation into a common currency, say USD.
 
 ---
