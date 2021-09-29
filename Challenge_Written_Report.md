@@ -28,7 +28,7 @@ The percentage of success for subcategory Plays seems to be correlated to goal a
 
 ### Challenges and Difficulties Encountered
 
-The biggest challenge encountered was to create a new column to properly allocate information by a goal amount range. I completed this through a nested ifs, but it might be that we could have created this through a vlookup.
+The biggest challenge encountered was to create a new column to properly allocate information by a goal amount range. I completed this through a nested if, but it might be that we could have created this through a vlookup.
 
 
 ## Results
@@ -55,7 +55,7 @@ The biggest challenge encountered was to create a new column to properly allocat
 
 - What are some other possible tables and/or graphs that we could create?
 
-    * Outcomes based on the time allocated between launch and deadline dates. I may be that more months allows a successful outcome.
+    * Outcomes based on the time allocated between launch and deadline dates. It may be that more months allows a successful outcome.
     * Statistical analysis of pledged amounts vs kickstarter goals pertaining to outcomes. A boxplot table could show us if there were pledges with very deep pocket bankrolling a project into a successful campaing, vs smaller pledge amounts.
     * Do analysis by country, for outcomes and amounts. Previous translation into a common currency, say USD.
 
